@@ -1,0 +1,49 @@
+#main{
+    background-color: rgba(47, 2, 54, 0.959);
+    margin: 10px;
+    border-radius: 10px;
+    color:aliceblue
+  }
+  #title{
+  text-align: center;
+  line-height: 3em;
+  }
+
+  p {
+      text-align: center;
+  }
+
+  #img-div{
+      background-color: white;
+      padding: 20px;
+      margin: 20px;
+  }
+  figcaption{
+      text-align: center;
+      padding-top: 20px;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  h3{
+      text-align: center;
+      line-height: 3em;
+  }
+  ul{
+      text-align: left;
+      padding-right: 30%;
+      padding-left: 30%;
+  }
+  #quote{
+    text-align: left; 
+    padding-left: 30%; 
+    padding-right:30%;
+  }
+  a{
+      color:azure;
+  }
